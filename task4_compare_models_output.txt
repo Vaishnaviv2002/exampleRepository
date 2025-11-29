@@ -1,0 +1,16 @@
+Loading two inputs from test CSV: dataset03_testing.csv
+Input columns: ['x']
+Inputs (first two rows):
+[[0.06671199]
+ [0.9401491 ]]
+
+Loading pickle network: pybrain_trained_net_dataset03.pkl
+Reconstructing network from XML: UE_05_App3_ANN_Model.xml
+
+Activations for model: pickle-trained-network
+ Input #0 -> [0.18119161]
+ Input #1 -> [0.84182602]
+
+Activations for model: xml-reconstructed-network
+ Input #0 -> [0.18119161]
+ Input #1 -> [0.84182602]
