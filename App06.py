@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-App06.py - scrape README.md from the GitHub page and save sections.
+App06.py - scrape README.md from the GitHub page and save sections.  
 
 Usage:
     python3.12 App06.py
